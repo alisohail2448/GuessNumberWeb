@@ -50,6 +50,13 @@ p {
   font-size: 1.8rem;
 }
 
+.game{
+ position: relative;
+ left: 15%;
+  width: 200px;
+  height: 200px;
+}
+
 .image {
   width: 90%;
   max-height: 22rem;

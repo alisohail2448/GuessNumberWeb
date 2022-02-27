@@ -1,3 +1,5 @@
+
+
 let computerGuess;
 let userGuess = [];
 let userGuessUpdate = document.getElementById("textOutput");
