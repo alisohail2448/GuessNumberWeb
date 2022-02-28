@@ -176,11 +176,7 @@ input {
 }
 
 @media (max-width: 800px) {
-  .game{
-    left: 33%;
-     width: 200px;
-     height: 200px;
-   }
+  
   body {
     width: 100vw;
   }
@@ -214,4 +210,5 @@ input {
     margin-top: 1rem;
     font-size: 1.6rem;
   }
+
 }
